@@ -1,0 +1,399 @@
+
+/**background image styling**/
+
+#background {
+    background-image: url("../images/CarpetClean.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 80vh;
+    color: purple;
+}
+
+.btn {
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+    animation-duration: 0.3s;
+}
+.mbisha: hover{
+    opacity: 0.7;
+}
+.hallo {
+    text-align: center;
+    padding-left: 360px;
+    font-size: 20px;
+}
+
+.info {
+    padding-top: 60px;
+    color: white;
+    font-size: 20px;
+}
+
+.no {
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+.header-form {
+    padding-top: 30px;
+}
+
+.title {
+    padding-top: 65px;
+}
+#form {
+
+    padding-top: 80px;
+}
+
+
+/** end of background image styling**/
+
+body {
+    font-family: georgia;
+    font-size: 16px;
+}
+
+
+/** footer styling**/
+
+
+/**carousel styling**/
+
+#centre {
+    margin-left: 500px;
+}
+#imageCarousel {
+    margin-bottom: -30px;
+}
+.beaut {
+    color: #c70a59;
+    margin-top: 500px;
+}
+
+.para {
+    font-size: 18px;
+}
+
+
+/** end of carousel styling**/
+
+.site-footer {
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+.bottom-footer {
+    border-top: 1px solid grey;
+    margin-top: 10px;
+    padding-top: 10px;
+    color: grey;
+}
+
+.footer-nav {
+    text-align: center;
+    list-style: none;
+}
+
+.footer-nav li {
+    display: inline;
+    padding: 0px 10px;
+}
+
+.footer-nav li:not(:first-child):before {
+    content: '|';
+    padding: 0px 10px;
+}
+
+.footer-nav a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+/** end of footer styling**/
+/**cliff-gor css**/
+
+.navbar.transparent.navbar .navbar-inner {
+    border-width: 0px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    background-color: rgba(0, 0, 0, 0.0);
+    background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0%, rgba(0, 0, 0, 0.00)), color-stop( 100%, rgba(0, 0, 0, 0.00)));
+    background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.00) 100%);
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.00) 100%);
+}
+
+#juum {
+    background-image: url("../images/carpetoriginal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+}
+
+#h1 {
+    color: green;
+}
+/**cliff-gor css**/
+/**evans css**/
+#refarral {
+    margin-left: 270px;
+}
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.tilt {
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+
+}
+
+button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: green;
+    background-color: green;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.button:hover {
+    background-color: red
+}
+
+.button:active {
+    background-color: green;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.tilt:hover {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-box-shadow: 0 0 40px rgba(255, 255, 255, .6), inset 0 0 40px rgba(255, 255, 255, 1);
+    -moz-box-shadow: 0 0 40px rgba(255, 255, 255, .6), inset 0 0 40px rgba(255, 255, 255, 1);
+    box-shadow: 0 0 40px rgba(255, 255, 255, .6), inset 0 0 40px rgba(255, 255, 255, 1);
+}
+
+.col-md-3 {
+    text-align: center;
+    border: 1px;
+}
+
+#container {
+    margin-left: 50px;
+    margin-right: 50px;
+    border-left: 0px solid grey;
+    border-right: 0px solid grey;
+    border-top: 0px solid grey;
+    border-bottom: 0px solid grey;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 0px;
+}
+/**evans css**/
+/****alex css**/
+/****animation part**/
+/***head**/
+.head {
+    color: #337ab7;
+    font-family: Fredricka the Great,cursive;
+    font-size: 400%;
+}
+/***end head**/
+/***start subheadings***/
+.heading {
+  font-family:  verdana,  cursive;
+  color: #337ab7;
+}
+#anim {
+    background-image: url("../images/background_960.jpg");
+    background-repeat: no-repeat;
+    height: 450px;
+    padding-top: 10px;
+    font-family: 'Raleway', sans-serif;
+    background-size: cover;
+    color: black;
+    width: 100%;
+}
+/***end subheadings***/
+/***end animation part***/
+/****end of alex css**/
+/** pricing table**/
+
+.columns {
+    width: 33.3%;
+    padding: 8px;
+}
+.price {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+
+}
+
+.price:hover {
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2)
+}
+
+.price .header {
+    background-color: #c70a59;
+    color: white;
+    font-size: 25px;
+}
+
+.price li {
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+}
+
+.price .grey {
+    background-color: #eee;
+    font-size: 20px;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .col-md {
+        width: 100%;
+    }
+}
+
+#pricing {
+    display: inline-block;
+    padding-top: 20px;
+    margin-left: 90px;
+}
+/** pricing css**/
+/**partners page**/
+
+#juum {
+    background-image: url("../images/carpetoriginal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+}
+
+#h1 {
+    color: green;
+}
+
+#wel {
+    text-align: center;
+    margin-top: -50px;
+}
+
+
+/* The navigation bar */
+
+.navbar-inverse.transparent {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    /* Set the navbar to fixed position */
+    top: 0;
+    /* Position the navbar at the top of the page */
+    width: 100%;
+    /* Full width */
+}
+
+
+/* Links inside the navbar */
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Main content */
+
+.main {
+    margin-top: 30px;
+    /* Add a top margin to avoid content overlay */
+}
+
+
+/*partner hover effect*/
+
+#img2 {
+    border: 1px solid #ddd;
+    /* Gray border */
+    border-radius: 4px;
+    /* Rounded border */
+    /*margin*/
+    margin: 50;
+    padding: 5px;
+    /* Some padding */
+    /*width: 150px;*/
+    /* Set a small width */
+}
+
+
+/* Add a hover effect (blue shadow) */
+
+#img2:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+/*end of partner hover effect*/
+/**partners page**/
